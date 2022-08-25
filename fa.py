@@ -1,4 +1,4 @@
-from matplotlib.colors import DivergingNorm
+from matplotlib.color import TwoSlopeNorm
 import streamlit as st
 from bokeh.models.widgets import Div
 
